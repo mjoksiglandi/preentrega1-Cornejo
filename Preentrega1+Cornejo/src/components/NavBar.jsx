@@ -4,7 +4,7 @@ import CartWidget from "./CartWidget";
 const NavBar = () => {
     return (
         <div className="container-fluid">
-            <div className="row bg-black p-3">
+            <div className="row bg-dark p-3">
                 <div className="col"></div>
                 <div className="col-md text-center">
                     <a href="#">
@@ -19,19 +19,19 @@ const NavBar = () => {
                 <div className="col">
                     <ul className="nav justify-content-center">
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">Home</a>
+                            <a className="nav-link text-white text-uppercase textoNavbar" href="#">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">About</a>
+                            <a className="nav-link text-white text-uppercase textoNavbar" href="#">About</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">Props</a>
+                            <a className="nav-link text-white text-uppercase textoNavbar" href="#">Props</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">Cosplay</a>
+                            <a className="nav-link text-white text-uppercase textoNavbar" href="#">Cosplay</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">Contactanos</a>
+                            <a className="nav-link text-white text-uppercase textoNavbar" href="#">Contactanos</a>
                         </li>
                     </ul>
                 </div>
