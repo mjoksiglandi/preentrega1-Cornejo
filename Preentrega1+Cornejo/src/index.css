@@ -21,8 +21,13 @@ body {
     background: #9a9a9b;
     
   } 
-.card
- 
+.text-uppercase {
+    color: aliceblue;
+}
+
+.fs-5{
+    color: aliceblue;
+}
   
 
   .card  {
