@@ -1,5 +1,5 @@
 .colorTituloPrincipal {
-    color:black;
+    color: azure;;
     letter-spacing: 1px;
     word-spacing: 2px;
 }
@@ -15,5 +15,17 @@
 }
 
 body {
-    background-color: rgb(141, 141, 141);
+    background-color: #3c4044;
+} 
+.card-body {
+    background: #9a9a9b;
+    
+  } 
+.card
+ 
+  
+
+  .card  {
+  
+    margin: 1em 0;
 }
